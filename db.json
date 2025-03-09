@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "age": 25,
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "age": 28,
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "email": "mike.johnson@example.com",
+      "age": 30,
+      "role": "editor"
+    },
+    {
+      "name": "teja ",
+      "email": "tejaverukonda@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "classroomAddress": "dkjllf\n",
+      "id": 4
+    },
+    {
+      "name": "teja",
+      "email": "csai@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "classroomAddress": "dfdsf",
+      "id": 5
+    }
+  ]
+}
